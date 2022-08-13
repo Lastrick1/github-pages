@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my site
 ---
 
+<h1>This is the header</h1>
